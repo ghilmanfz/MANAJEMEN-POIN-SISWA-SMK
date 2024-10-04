@@ -15,7 +15,7 @@ username : admin
 password : admin123
 
 Login sebagai
-* guru kesiswaan/BK menggunakan:
+* guru kesiswaan/BK
 * Login wali kelas:
 * Login kepala sekolah :
 username dan password silahkan create di administrator
