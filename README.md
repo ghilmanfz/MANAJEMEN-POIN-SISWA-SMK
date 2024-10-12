@@ -1,3 +1,33 @@
+# Student Points Management System - SMK AL-HASRA
+
+A student points management system for SMK AL-HASRA, covering **achievements**, **violations**, and **self-improvement**. This system allows teachers, class advisors, and principals to manage student points efficiently.
+
+## Key Features
+- **Multi-User Login**: Admin, Guidance Counselor, Class Advisor, Principal
+- **Point Management**: Student achievements and violations
+- **Reports and Statistics**: Summary of student points
+
+## Installation
+1. Ensure PHP >= 7.2 and MySQL/MariaDB are running.
+2. Clone the repository into the `htdocs` folder in XAMPP.
+3. Create a database `ghilman_pembinaan_karakter` and import the SQL file from the `database` folder.
+4. Access the system via `localhost/pembinaan_karakter`.
+
+## Demo Account
+- **Admin**: Username: `admin` | Password: `admin123`
+
+## Technologies
+- **PHP**
+- **MySQLi**
+- **CSS**
+- **JavaScript**
+
+## License
+[MIT License](LICENSE)
+
+
+
+
 MOHON DIBACA!
 DATA YANG ADA PADA DATABASE SAAT INI ADALAH KOSONG,
 
@@ -35,29 +65,3 @@ INSTALASI SISTEM PADA LOCAL COMPUTER:
 NOTE : KHUSUS TABEL USER, SISAKAN DATA ADMIN, AGAR TETAP DAPAT LOGIN SEBAGAI ADMINISTRATOR.
 
 
-# Student Points Management System - SMK AL-HASRA
-
-A student points management system for SMK AL-HASRA, covering **achievements**, **violations**, and **self-improvement**. This system allows teachers, class advisors, and principals to manage student points efficiently.
-
-## Key Features
-- **Multi-User Login**: Admin, Guidance Counselor, Class Advisor, Principal
-- **Point Management**: Student achievements and violations
-- **Reports and Statistics**: Summary of student points
-
-## Installation
-1. Ensure PHP >= 7.2 and MySQL/MariaDB are running.
-2. Clone the repository into the `htdocs` folder in XAMPP.
-3. Create a database `ghilman_pembinaan_karakter` and import the SQL file from the `database` folder.
-4. Access the system via `localhost/pembinaan_karakter`.
-
-## Demo Account
-- **Admin**: Username: `admin` | Password: `admin123`
-
-## Technologies
-- **PHP**
-- **MySQLi**
-- **CSS**
-- **JavaScript**
-
-## License
-[MIT License](LICENSE)
