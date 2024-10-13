@@ -28,7 +28,7 @@ A student points management system for SMK AL-HASRA, covering **achievements**, 
 
 
 
-MOHON DIBACA!
+## MOHON DIBACA!
 DATA YANG ADA PADA DATABASE SAAT INI ADALAH KOSONG,
 
 ***********************************************
